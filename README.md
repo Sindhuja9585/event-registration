@@ -40,6 +40,7 @@ figma
 
 ## PROGRAM :
 '''
+
 /* home page */
 
 position: relative;
@@ -600,6 +601,7 @@ color: #000000;
 '''
 
 ## OUTPUT:
+
 ![output](./home.png)
 ![output](./login.png)
 ![output](./SEC.png)
