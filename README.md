@@ -600,9 +600,7 @@ color: #000000;
 
 '''
 
-## OUTPUT:
-
-![output](./home.png)
+## OUTPUT:![output](./home.png)
 ![output](./login.png)
 ![output](./SEC.png)
 
